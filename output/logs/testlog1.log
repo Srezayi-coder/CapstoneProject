@@ -397,3 +397,497 @@
 2023-02-27 23:09:51,435 [main] INFO logger_File - Smart Home The item is present
 2023-02-27 23:09:51,520 [main] INFO logger_File - Sports The item is present
 2023-02-27 23:09:51,600 [main] INFO logger_File - Automative The item is present
+2023-03-02 15:37:37,010 [main] INFO logger_File - User is on retail website
+2023-03-02 15:37:37,325 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:37:37,911 [main] INFO logger_File - user entered email and password
+2023-03-02 15:37:38,073 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:37:38,356 [main] INFO logger_File - user logged into account
+2023-03-02 15:37:38,676 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:37:38,854 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:37:39,538 [main] INFO logger_File - updating Name and Phone Number
+2023-03-02 15:41:56,683 [main] INFO logger_File - User is on retail website
+2023-03-02 15:41:56,951 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:41:57,484 [main] INFO logger_File - user entered email and password
+2023-03-02 15:41:57,663 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:41:58,047 [main] INFO logger_File - user logged into account
+2023-03-02 15:41:58,342 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:41:59,037 [main] INFO logger_File - updating Name and Phone Number
+2023-03-02 15:43:27,956 [main] INFO logger_File - User is on retail website
+2023-03-02 15:43:28,238 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:43:28,822 [main] INFO logger_File - user entered email and password
+2023-03-02 15:43:29,017 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:43:29,353 [main] INFO logger_File - user logged into account
+2023-03-02 15:43:29,641 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:43:30,409 [main] INFO logger_File - updating Name and Phone Number
+2023-03-02 15:43:30,585 [main] INFO logger_File - Click on update button
+2023-03-02 15:45:43,649 [main] INFO logger_File - User is on retail website
+2023-03-02 15:45:43,955 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:45:44,521 [main] INFO logger_File - user entered email and password
+2023-03-02 15:45:44,705 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:45:45,055 [main] INFO logger_File - user logged into account
+2023-03-02 15:45:45,353 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:45:45,520 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:45:46,316 [main] INFO logger_File - user entered below infromation
+2023-03-02 15:45:46,480 [main] INFO logger_File - user click on change password button
+2023-03-02 15:46:38,280 [main] INFO logger_File - User is on retail website
+2023-03-02 15:46:38,555 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:46:39,126 [main] INFO logger_File - user entered email and password
+2023-03-02 15:46:39,301 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:47:44,398 [main] INFO logger_File - User is on retail website
+2023-03-02 15:47:44,689 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:47:45,239 [main] INFO logger_File - user entered email and password
+2023-03-02 15:47:45,428 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:47:45,693 [main] INFO logger_File - user logged into account
+2023-03-02 15:47:46,107 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:47:46,309 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:47:47,157 [main] INFO logger_File - user entered below infromation
+2023-03-02 15:47:47,342 [main] INFO logger_File - user click on change password button
+2023-03-02 15:49:43,362 [main] INFO logger_File - User is on retail website
+2023-03-02 15:49:43,633 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:49:44,230 [main] INFO logger_File - user entered email and password
+2023-03-02 15:49:44,410 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:49:44,754 [main] INFO logger_File - user logged into account
+2023-03-02 15:49:45,054 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:49:45,210 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:49:45,947 [main] INFO logger_File - user entered below infromation
+2023-03-02 15:49:46,133 [main] INFO logger_File - user click on change password button
+2023-03-02 15:51:00,389 [main] INFO logger_File - User is on retail website
+2023-03-02 15:51:00,716 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:51:01,271 [main] INFO logger_File - user entered email and password
+2023-03-02 15:51:01,450 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:51:01,744 [main] INFO logger_File - user logged into account
+2023-03-02 15:51:02,030 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:51:02,214 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:51:02,921 [main] INFO logger_File - user entered below infromation
+2023-03-02 15:51:03,088 [main] INFO logger_File - user click on change password button
+2023-03-02 15:52:35,654 [main] INFO logger_File - User is on retail website
+2023-03-02 15:52:35,931 [main] INFO logger_File - user clicked sign in
+2023-03-02 15:52:36,477 [main] INFO logger_File - user entered email and password
+2023-03-02 15:52:36,655 [main] INFO logger_File - user clicked on login button
+2023-03-02 15:52:36,920 [main] INFO logger_File - user logged into account
+2023-03-02 15:52:37,241 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:52:37,373 [main] INFO logger_File - user clicked on account option
+2023-03-02 15:52:38,103 [main] INFO logger_File - user entered below infromation
+2023-03-02 15:52:38,276 [main] INFO logger_File - user click on change password button
+2023-03-04 21:06:02,742 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:02,928 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:03,077 [main] INFO logger_File - TV & Video the items are present in department
+2023-03-04 21:06:03,160 [main] INFO logger_File - Video Games the items are present in department
+2023-03-04 21:06:05,781 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:06,043 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:06,215 [main] INFO logger_File - Accessories the items are present in department
+2023-03-04 21:06:06,280 [main] INFO logger_File - Networking the items are present in department
+2023-03-04 21:06:08,771 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:09,085 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:09,291 [main] INFO logger_File - Smart Home Lightning the items are present in department
+2023-03-04 21:06:09,377 [main] INFO logger_File - Plugs and Outlets the items are present in department
+2023-03-04 21:06:12,052 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:12,370 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:12,561 [main] INFO logger_File - Athletic Clothing the items are present in department
+2023-03-04 21:06:12,628 [main] INFO logger_File - Exercise & Fitness the items are present in department
+2023-03-04 21:06:15,123 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:15,422 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:41,620 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:41,756 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:41,916 [main] INFO logger_File - TV & Video the items are present in department
+2023-03-04 21:06:42,002 [main] INFO logger_File - Video Games the items are present in department
+2023-03-04 21:06:44,572 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:44,855 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:45,016 [main] INFO logger_File - Accessories the items are present in department
+2023-03-04 21:06:45,086 [main] INFO logger_File - Networking the items are present in department
+2023-03-04 21:06:47,511 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:47,779 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:47,940 [main] INFO logger_File - Smart Home Lightning the items are present in department
+2023-03-04 21:06:48,001 [main] INFO logger_File - Plugs and Outlets the items are present in department
+2023-03-04 21:06:50,728 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:51,009 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:06:51,228 [main] INFO logger_File - Athletic Clothing the items are present in department
+2023-03-04 21:06:51,290 [main] INFO logger_File - Exercise & Fitness the items are present in department
+2023-03-04 21:06:54,960 [main] INFO logger_File - User is on retail website
+2023-03-04 21:06:55,146 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:11:23,835 [main] INFO logger_File - User is on retail website
+2023-03-04 21:11:24,170 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:11:24,397 [main] INFO logger_File - TV & Video the items are present in department
+2023-03-04 21:11:24,499 [main] INFO logger_File - Video Games the items are present in department
+2023-03-04 21:11:27,792 [main] INFO logger_File - User is on retail website
+2023-03-04 21:11:27,968 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:11:28,163 [main] INFO logger_File - Accessories the items are present in department
+2023-03-04 21:11:28,241 [main] INFO logger_File - Networking the items are present in department
+2023-03-04 21:11:31,598 [main] INFO logger_File - User is on retail website
+2023-03-04 21:11:32,067 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:11:32,261 [main] INFO logger_File - Smart Home Lightning the items are present in department
+2023-03-04 21:11:32,345 [main] INFO logger_File - Plugs and Outlets the items are present in department
+2023-03-04 21:11:35,442 [main] INFO logger_File - User is on retail website
+2023-03-04 21:11:35,561 [main] INFO logger_File - user  clicked on all section
+2023-03-04 21:11:35,810 [main] INFO logger_File - Athletic Clothing the items are present in department
+2023-03-04 21:11:35,880 [main] INFO logger_File - Exercise & Fitness the items are present in department
+2023-03-04 21:11:39,024 [main] INFO logger_File - User is on retail website
+2023-03-04 21:11:39,165 [main] INFO logger_File - user  clicked on all section
+2023-03-04 22:43:52,700 [main] INFO logger_File - User is on retail website
+2023-03-04 22:43:52,907 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:43:53,252 [main] INFO logger_File - user entered email and password
+2023-03-04 22:43:53,356 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:46:55,123 [main] INFO logger_File - User is on retail website
+2023-03-04 22:46:55,372 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:46:55,730 [main] INFO logger_File - user entered email and password
+2023-03-04 22:46:55,841 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:50:23,799 [main] INFO logger_File - User is on retail website
+2023-03-04 22:50:23,953 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:50:24,297 [main] INFO logger_File - user entered email and password
+2023-03-04 22:50:24,406 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:52:56,067 [main] INFO logger_File - User is on retail website
+2023-03-04 22:52:56,268 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:52:56,592 [main] INFO logger_File - user entered email and password
+2023-03-04 22:52:56,711 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:52:57,019 [main] INFO logger_File - user logged into account
+2023-03-04 22:52:57,296 [main] INFO logger_File - user searched for an item
+2023-03-04 22:52:57,397 [main] INFO logger_File - user clicked on search icon
+2023-03-04 22:52:57,589 [main] INFO logger_File - user clicked on item
+2023-03-04 22:52:58,030 [main] INFO logger_File - user clicked add cart button
+2023-03-04 22:52:58,162 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 22:53:53,795 [main] INFO logger_File - User is on retail website
+2023-03-04 22:53:53,993 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:53:54,312 [main] INFO logger_File - user entered email and password
+2023-03-04 22:53:54,417 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:53:54,675 [main] INFO logger_File - user logged into account
+2023-03-04 22:53:54,953 [main] INFO logger_File - user searched for an item
+2023-03-04 22:53:55,043 [main] INFO logger_File - user clicked on search icon
+2023-03-04 22:53:55,268 [main] INFO logger_File - user clicked on item
+2023-03-04 22:53:55,804 [main] INFO logger_File - user clicked add cart button
+2023-03-04 22:53:55,826 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 22:58:44,751 [main] INFO logger_File - User is on retail website
+2023-03-04 22:58:44,990 [main] INFO logger_File - user clicked sign in
+2023-03-04 22:58:45,317 [main] INFO logger_File - user entered email and password
+2023-03-04 22:58:45,422 [main] INFO logger_File - user clicked on login button
+2023-03-04 22:58:45,670 [main] INFO logger_File - user logged into account
+2023-03-04 22:58:45,983 [main] INFO logger_File - user searched for an item
+2023-03-04 22:58:46,077 [main] INFO logger_File - user clicked on search icon
+2023-03-04 22:58:46,257 [main] INFO logger_File - user clicked on item
+2023-03-04 22:58:46,758 [main] INFO logger_File - user clicked add cart button
+2023-03-04 22:58:46,808 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:00:29,181 [main] INFO logger_File - User is on retail website
+2023-03-04 23:00:29,438 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:00:29,795 [main] INFO logger_File - user entered email and password
+2023-03-04 23:00:29,906 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:00:30,185 [main] INFO logger_File - user logged into account
+2023-03-04 23:00:30,495 [main] INFO logger_File - user searched for an item
+2023-03-04 23:00:30,597 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:00:30,790 [main] INFO logger_File - user clicked on item
+2023-03-04 23:00:31,246 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:00:31,293 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:02:18,489 [main] INFO logger_File - User is on retail website
+2023-03-04 23:02:18,658 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:02:19,044 [main] INFO logger_File - user entered email and password
+2023-03-04 23:02:19,146 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:02:19,421 [main] INFO logger_File - user logged into account
+2023-03-04 23:02:19,710 [main] INFO logger_File - user searched for an item
+2023-03-04 23:02:19,804 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:02:20,010 [main] INFO logger_File - user clicked on item
+2023-03-04 23:02:20,510 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:02:20,636 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:05:43,823 [main] INFO logger_File - User is on retail website
+2023-03-04 23:05:44,050 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:05:44,488 [main] INFO logger_File - user entered email and password
+2023-03-04 23:05:44,624 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:05:44,862 [main] INFO logger_File - user logged into account
+2023-03-04 23:05:45,307 [main] INFO logger_File - user searched for an item
+2023-03-04 23:05:45,441 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:05:45,683 [main] INFO logger_File - user clicked on item
+2023-03-04 23:05:46,163 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:05:46,237 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:08:05,317 [main] INFO logger_File - User is on retail website
+2023-03-04 23:08:05,564 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:08:06,000 [main] INFO logger_File - user entered email and password
+2023-03-04 23:08:06,107 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:08:06,410 [main] INFO logger_File - user logged into account
+2023-03-04 23:08:06,700 [main] INFO logger_File - user searched for an item
+2023-03-04 23:08:06,803 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:08:06,989 [main] INFO logger_File - user clicked on item
+2023-03-04 23:08:07,289 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:08:07,424 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:24:55,689 [main] INFO logger_File - User is on retail website
+2023-03-04 23:24:55,861 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:24:56,236 [main] INFO logger_File - user entered email and password
+2023-03-04 23:24:56,339 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:24:56,599 [main] INFO logger_File - user logged into account
+2023-03-04 23:24:56,911 [main] INFO logger_File - user searched for an item
+2023-03-04 23:24:57,014 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:24:57,195 [main] INFO logger_File - user clicked on item
+2023-03-04 23:24:57,529 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:24:57,584 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:25:23,856 [main] INFO logger_File - User is on retail website
+2023-03-04 23:25:24,033 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:25:24,460 [main] INFO logger_File - user entered email and password
+2023-03-04 23:25:24,576 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:25:24,813 [main] INFO logger_File - user logged into account
+2023-03-04 23:25:25,182 [main] INFO logger_File - user searched for an item
+2023-03-04 23:25:25,287 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:25:25,472 [main] INFO logger_File - user clicked on item
+2023-03-04 23:25:25,812 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:25:25,865 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:32:09,586 [main] INFO logger_File - User is on retail website
+2023-03-04 23:32:09,768 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:32:10,101 [main] INFO logger_File - user entered email and password
+2023-03-04 23:32:10,212 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:32:10,463 [main] INFO logger_File - user logged into account
+2023-03-04 23:32:10,761 [main] INFO logger_File - user searched for an item
+2023-03-04 23:32:10,852 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:32:11,100 [main] INFO logger_File - user clicked on item
+2023-03-04 23:32:11,442 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:32:11,501 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:32:37,500 [main] INFO logger_File - User is on retail website
+2023-03-04 23:32:37,692 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:32:38,014 [main] INFO logger_File - user entered email and password
+2023-03-04 23:32:38,120 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:32:38,371 [main] INFO logger_File - user logged into account
+2023-03-04 23:32:38,666 [main] INFO logger_File - user searched for an item
+2023-03-04 23:32:38,759 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:32:38,954 [main] INFO logger_File - user clicked on item
+2023-03-04 23:32:39,278 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:32:39,407 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-04 23:33:01,547 [main] INFO logger_File - User is on retail website
+2023-03-04 23:33:01,716 [main] INFO logger_File - user clicked sign in
+2023-03-04 23:33:02,093 [main] INFO logger_File - user entered email and password
+2023-03-04 23:33:02,219 [main] INFO logger_File - user clicked on login button
+2023-03-04 23:33:02,461 [main] INFO logger_File - user logged into account
+2023-03-04 23:33:02,794 [main] INFO logger_File - user searched for an item
+2023-03-04 23:33:02,901 [main] INFO logger_File - user clicked on search icon
+2023-03-04 23:33:03,116 [main] INFO logger_File - user clicked on item
+2023-03-04 23:33:03,501 [main] INFO logger_File - user clicked add cart button
+2023-03-04 23:33:03,558 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-05 00:59:58,938 [main] INFO logger_File - User is on retail website
+2023-03-05 00:59:59,113 [main] INFO logger_File - user clicked sign in
+2023-03-05 00:59:59,480 [main] INFO logger_File - user entered email and password
+2023-03-05 00:59:59,591 [main] INFO logger_File - user clicked on login button
+2023-03-05 00:59:59,868 [main] INFO logger_File - user logged into account
+2023-03-05 01:00:00,162 [main] INFO logger_File - user searched for an item
+2023-03-05 01:00:00,269 [main] INFO logger_File - user clicked on search icon
+2023-03-05 01:00:00,526 [main] INFO logger_File - user clicked on item
+2023-03-05 01:00:00,919 [main] INFO logger_File - user clicked add cart button
+2023-03-05 01:00:01,087 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-05 01:00:01,238 [main] INFO logger_File - user clicked on cart option
+2023-03-05 01:00:01,433 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-05 01:00:01,616 [main] INFO logger_File - user clicked add a new address for shipping address
+2023-03-05 01:00:02,877 [main] INFO logger_File - user filled new address form with information
+2023-03-05 01:00:03,045 [main] INFO logger_File - user clicked add your address button
+2023-03-05 01:00:03,227 [main] INFO logger_File - user clicked add a credit card or debit card for payment method
+2023-03-05 01:00:03,935 [main] INFO logger_File - user filled debit or credit card information
+2023-03-05 01:00:04,036 [main] INFO logger_File - user clicked on Add your card button
+2023-03-05 01:00:04,152 [main] INFO logger_File - user clicked on place your order
+2023-03-05 01:00:04,403 [main] INFO logger_File - A message is displayed
+2023-03-05 01:01:31,137 [main] INFO logger_File - User is on retail website
+2023-03-05 01:01:31,340 [main] INFO logger_File - user clicked sign in
+2023-03-05 01:01:31,693 [main] INFO logger_File - user entered email and password
+2023-03-05 01:01:31,802 [main] INFO logger_File - user clicked on login button
+2023-03-05 01:01:32,070 [main] INFO logger_File - user logged into account
+2023-03-05 01:01:32,382 [main] INFO logger_File - user searched for an item
+2023-03-05 01:01:32,477 [main] INFO logger_File - user clicked on search icon
+2023-03-05 01:01:32,726 [main] INFO logger_File - user clicked on item
+2023-03-05 01:01:33,065 [main] INFO logger_File - user clicked add cart button
+2023-03-05 01:01:33,327 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-05 01:01:33,436 [main] INFO logger_File - user clicked on cart option
+2023-03-05 01:01:33,587 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-05 01:01:33,739 [main] INFO logger_File - user clicked add a new address for shipping address
+2023-03-05 01:01:34,748 [main] INFO logger_File - user filled new address form with information
+2023-03-05 01:01:34,893 [main] INFO logger_File - user clicked add your address button
+2023-03-05 01:01:35,094 [main] INFO logger_File - user clicked add a credit card or debit card for payment method
+2023-03-05 01:01:35,793 [main] INFO logger_File - user filled debit or credit card information
+2023-03-05 01:01:35,906 [main] INFO logger_File - user clicked on Add your card button
+2023-03-05 01:03:22,487 [main] INFO logger_File - User is on retail website
+2023-03-05 01:03:22,704 [main] INFO logger_File - user clicked sign in
+2023-03-05 01:03:23,061 [main] INFO logger_File - user entered email and password
+2023-03-05 01:03:23,169 [main] INFO logger_File - user clicked on login button
+2023-03-05 01:03:23,460 [main] INFO logger_File - user logged into account
+2023-03-05 01:03:23,741 [main] INFO logger_File - user searched for an item
+2023-03-05 01:03:23,843 [main] INFO logger_File - user clicked on search icon
+2023-03-05 01:03:24,040 [main] INFO logger_File - user clicked on item
+2023-03-05 01:03:24,423 [main] INFO logger_File - user clicked add cart button
+2023-03-05 01:03:24,569 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-05 01:03:24,680 [main] INFO logger_File - user clicked on cart option
+2023-03-05 01:03:24,818 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-05 01:03:24,965 [main] INFO logger_File - user clicked add a new address for shipping address
+2023-03-05 01:03:26,016 [main] INFO logger_File - user filled new address form with information
+2023-03-05 01:03:26,188 [main] INFO logger_File - user clicked add your address button
+2023-03-05 01:03:26,338 [main] INFO logger_File - user clicked add a credit card or debit card for payment method
+2023-03-05 01:03:27,034 [main] INFO logger_File - user filled debit or credit card information
+2023-03-05 01:03:27,147 [main] INFO logger_File - user clicked on Add your card button
+2023-03-05 01:03:27,805 [main] INFO logger_File - user clicked on place your order
+2023-03-05 01:03:28,044 [main] INFO logger_File - A message is displayed
+2023-03-05 01:07:15,145 [main] INFO logger_File - User is on retail website
+2023-03-05 01:07:15,493 [main] INFO logger_File - user clicked sign in
+2023-03-05 01:07:15,826 [main] INFO logger_File - user entered email and password
+2023-03-05 01:07:15,926 [main] INFO logger_File - user clicked on login button
+2023-03-05 01:07:16,205 [main] INFO logger_File - user logged into account
+2023-03-05 01:07:16,515 [main] INFO logger_File - user searched for an item
+2023-03-05 01:07:16,612 [main] INFO logger_File - user clicked on search icon
+2023-03-05 01:07:16,799 [main] INFO logger_File - user clicked on item
+2023-03-05 01:07:17,111 [main] INFO logger_File - user clicked add cart button
+2023-03-05 01:07:17,337 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-05 01:07:17,458 [main] INFO logger_File - user clicked on cart option
+2023-03-05 01:07:17,619 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-05 01:07:17,773 [main] INFO logger_File - user clicked add a new address for shipping address
+2023-03-05 01:07:18,800 [main] INFO logger_File - user filled new address form with information
+2023-03-05 01:07:18,933 [main] INFO logger_File - user clicked add your address button
+2023-03-05 01:07:19,090 [main] INFO logger_File - user clicked add a credit card or debit card for payment method
+2023-03-05 01:07:19,737 [main] INFO logger_File - user filled debit or credit card information
+2023-03-05 01:07:19,835 [main] INFO logger_File - user clicked on Add your card button
+2023-03-05 01:07:20,533 [main] INFO logger_File - user clicked on place your order
+2023-03-05 01:07:20,763 [main] INFO logger_File - A message is displayed
+2023-03-06 10:27:47,253 [main] INFO logger_File - User is on retail website
+2023-03-06 10:27:47,607 [main] INFO logger_File - user clicked sign in
+2023-03-06 10:27:48,217 [main] INFO logger_File - user entered email and password
+2023-03-06 10:27:48,399 [main] INFO logger_File - user clicked on login button
+2023-03-06 10:27:48,765 [main] INFO logger_File - user logged into account
+2023-03-06 11:07:02,237 [main] INFO logger_File - User is on retail website
+2023-03-06 11:07:02,500 [main] INFO logger_File - user clicked sign in
+2023-03-06 11:07:03,088 [main] INFO logger_File - user entered email and password
+2023-03-06 11:07:03,280 [main] INFO logger_File - user clicked on login button
+2023-03-06 11:07:03,572 [main] INFO logger_File - user logged into account
+2023-03-06 11:07:56,682 [main] INFO logger_File - User is on retail website
+2023-03-06 11:07:56,938 [main] INFO logger_File - user clicked sign in
+2023-03-06 11:07:57,503 [main] INFO logger_File - user entered email and password
+2023-03-06 11:07:57,706 [main] INFO logger_File - user clicked on login button
+2023-03-06 11:07:57,992 [main] INFO logger_File - user logged into account
+2023-03-06 11:07:58,378 [main] INFO logger_File - user searched for an item
+2023-03-06 11:07:58,540 [main] INFO logger_File - user clicked on search icon
+2023-03-06 11:14:08,556 [main] INFO logger_File - User is on retail website
+2023-03-06 11:14:08,833 [main] INFO logger_File - user clicked sign in
+2023-03-06 11:14:09,417 [main] INFO logger_File - user entered email and password
+2023-03-06 11:14:09,608 [main] INFO logger_File - user clicked on login button
+2023-03-06 11:14:09,954 [main] INFO logger_File - user logged into account
+2023-03-06 11:14:10,374 [main] INFO logger_File - user searched for an item
+2023-03-06 11:14:10,562 [main] INFO logger_File - user clicked on search icon
+2023-03-06 11:14:10,856 [main] INFO logger_File - user click on an electronic item
+2023-03-06 11:14:11,438 [main] INFO logger_File - user clicked add cart button
+2023-03-06 11:14:11,557 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-06 11:14:11,777 [main] INFO logger_File - user clicked on cart option
+2023-03-06 11:14:12,035 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-06 11:14:12,223 [main] INFO logger_File - user clicked on place your order
+2023-03-06 11:14:12,578 [main] INFO logger_File - A message is displayed
+2023-03-06 11:15:52,813 [main] INFO logger_File - User is on retail website
+2023-03-06 11:15:53,102 [main] INFO logger_File - user clicked sign in
+2023-03-06 11:15:53,670 [main] INFO logger_File - user entered email and password
+2023-03-06 11:15:53,849 [main] INFO logger_File - user clicked on login button
+2023-03-06 11:15:54,102 [main] INFO logger_File - user logged into account
+2023-03-06 11:15:54,474 [main] INFO logger_File - user searched for an item
+2023-03-06 11:15:54,655 [main] INFO logger_File - user clicked on search icon
+2023-03-06 11:15:54,961 [main] INFO logger_File - user click on an electronic item
+2023-03-06 11:15:55,564 [main] INFO logger_File - user clicked add cart button
+2023-03-06 11:15:55,839 [main] INFO logger_File - the cart icon quantity is changed
+2023-03-06 11:15:56,044 [main] INFO logger_File - user clicked on cart option
+2023-03-06 11:15:56,281 [main] INFO logger_File - user clicked on proceed to checkout button
+2023-03-06 11:15:56,459 [main] INFO logger_File - user clicked on place your order
+2023-03-06 11:15:56,815 [main] INFO logger_File - A message is displayed
+2023-03-07 11:55:58,811 [main] INFO logger_File - User is on retail website
+2023-03-07 11:55:58,969 [main] INFO logger_File - user clicked sign in
+2023-03-07 11:55:59,332 [main] INFO logger_File - user entered email and password
+2023-03-07 11:55:59,447 [main] INFO logger_File - user clicked on login button
+2023-03-07 11:55:59,706 [main] INFO logger_File - user logged into account
+2023-03-07 11:56:00,003 [main] INFO logger_File - user clicked on order section
+2023-03-07 11:56:00,216 [main] INFO logger_File - user clicked on first order in list
+2023-03-07 12:10:14,342 [main] INFO logger_File - User is on retail website
+2023-03-07 12:10:14,527 [main] INFO logger_File - user clicked sign in
+2023-03-07 12:10:15,000 [main] INFO logger_File - user entered email and password
+2023-03-07 12:10:15,141 [main] INFO logger_File - user clicked on login button
+2023-03-07 12:10:15,591 [main] INFO logger_File - user logged into account
+2023-03-07 12:10:15,931 [main] INFO logger_File - user clicked on order section
+2023-03-07 12:10:16,095 [main] INFO logger_File - user clicked on first order in list
+2023-03-07 12:15:07,850 [main] INFO logger_File - User is on retail website
+2023-03-07 12:15:08,095 [main] INFO logger_File - user clicked sign in
+2023-03-07 12:15:08,558 [main] INFO logger_File - user entered email and password
+2023-03-07 12:15:08,691 [main] INFO logger_File - user clicked on login button
+2023-03-07 12:15:08,951 [main] INFO logger_File - user logged into account
+2023-03-07 12:15:09,166 [main] INFO logger_File - user clicked on order section
+2023-03-07 12:15:09,379 [main] INFO logger_File - user clicked on first order in list
+2023-03-07 12:17:08,868 [main] INFO logger_File - User is on retail website
+2023-03-07 12:17:09,034 [main] INFO logger_File - user clicked sign in
+2023-03-07 12:17:09,370 [main] INFO logger_File - user entered email and password
+2023-03-07 12:17:09,493 [main] INFO logger_File - user clicked on login button
+2023-03-07 12:17:09,867 [main] INFO logger_File - user logged into account
+2023-03-07 12:17:10,096 [main] INFO logger_File - user clicked on order section
+2023-03-07 12:17:10,167 [main] INFO logger_File - user clicked on first order in list
+2023-03-07 12:17:10,304 [main] INFO logger_File - user clicked on cancel the order button
+2023-03-07 12:17:10,443 [main] INFO logger_File - user selected the cancelation reason
+2023-03-07 12:17:10,550 [main] INFO logger_File - user clicked on cancel order button
+2023-03-07 12:17:10,699 [main] INFO logger_File - a cancelation message is displayed
+2023-03-07 12:17:37,608 [main] INFO logger_File - User is on retail website
+2023-03-07 12:17:37,777 [main] INFO logger_File - user clicked sign in
+2023-03-07 12:17:38,115 [main] INFO logger_File - user entered email and password
+2023-03-07 12:17:38,222 [main] INFO logger_File - user clicked on login button
+2023-03-07 12:17:38,463 [main] INFO logger_File - user logged into account
+2023-03-07 12:17:38,665 [main] INFO logger_File - user clicked on order section
+2023-03-07 12:17:38,726 [main] INFO logger_File - user clicked on first order in list
+2023-03-07 12:17:53,928 [main] INFO logger_File - user clicked on cancel the order button
+2023-03-07 12:17:54,094 [main] INFO logger_File - user selected the cancelation reason
+2023-03-07 12:17:54,221 [main] INFO logger_File - user clicked on cancel order button
+2023-03-07 12:17:54,352 [main] INFO logger_File - a cancelation message is displayed
+2023-03-11 11:46:34,980 [main] INFO logger_File - User is on retail website
+2023-03-11 11:46:35,188 [main] INFO logger_File - user clicked sign in
+2023-03-11 11:46:35,632 [main] INFO logger_File - user entered email and password
+2023-03-11 11:46:35,757 [main] INFO logger_File - user clicked on login button
+2023-03-11 11:46:35,995 [main] INFO logger_File - user logged into account
+2023-03-11 11:46:36,268 [main] INFO logger_File - user clicked on order section
+2023-03-11 11:46:36,334 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 11:51:26,475 [main] INFO logger_File - User is on retail website
+2023-03-11 11:51:26,634 [main] INFO logger_File - user clicked sign in
+2023-03-11 11:51:26,966 [main] INFO logger_File - user entered email and password
+2023-03-11 11:51:27,083 [main] INFO logger_File - user clicked on login button
+2023-03-11 11:51:27,394 [main] INFO logger_File - user logged into account
+2023-03-11 11:51:27,587 [main] INFO logger_File - user clicked on order section
+2023-03-11 11:51:27,644 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 11:51:27,805 [main] INFO logger_File - user clicked on cancel the order button
+2023-03-11 11:51:27,925 [main] INFO logger_File - user selected the cancelation reason
+2023-03-11 11:51:28,023 [main] INFO logger_File - user clicked on cancel order button
+2023-03-11 11:51:28,183 [main] INFO logger_File - a cancelation message is displayed
+2023-03-11 13:08:51,070 [main] INFO logger_File - User is on retail website
+2023-03-11 13:08:51,237 [main] INFO logger_File - user clicked sign in
+2023-03-11 13:08:51,619 [main] INFO logger_File - user entered email and password
+2023-03-11 13:08:51,746 [main] INFO logger_File - user clicked on login button
+2023-03-11 13:08:52,032 [main] INFO logger_File - user logged into account
+2023-03-11 13:08:52,389 [main] INFO logger_File - user clicked on order section
+2023-03-11 13:08:52,466 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 13:08:52,682 [main] INFO logger_File - user clicked on return item button
+2023-03-11 13:08:52,846 [main] INFO logger_File - user selected the return reason
+2023-03-11 13:12:27,498 [main] INFO logger_File - User is on retail website
+2023-03-11 13:12:27,679 [main] INFO logger_File - user clicked sign in
+2023-03-11 13:12:28,133 [main] INFO logger_File - user entered email and password
+2023-03-11 13:12:28,267 [main] INFO logger_File - user clicked on login button
+2023-03-11 13:12:28,519 [main] INFO logger_File - user logged into account
+2023-03-11 13:12:28,738 [main] INFO logger_File - user clicked on order section
+2023-03-11 13:12:28,827 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 13:12:29,017 [main] INFO logger_File - user clicked on return item button
+2023-03-11 13:12:29,158 [main] INFO logger_File - user selected the return reason
+2023-03-11 13:12:29,257 [main] INFO logger_File - user selected the drop of service
+2023-03-11 13:12:29,365 [main] INFO logger_File - user clicked on return order button
+2023-03-11 13:12:29,502 [main] INFO logger_File - a return message is displayed
+2023-03-11 15:51:24,227 [main] INFO logger_File - User is on retail website
+2023-03-11 15:51:24,462 [main] INFO logger_File - user clicked sign in
+2023-03-11 15:51:24,937 [main] INFO logger_File - user entered email and password
+2023-03-11 15:51:25,091 [main] INFO logger_File - user clicked on login button
+2023-03-11 15:51:25,336 [main] INFO logger_File - user logged into account
+2023-03-11 15:51:25,672 [main] INFO logger_File - user clicked on order section
+2023-03-11 15:51:25,728 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 15:51:25,900 [main] INFO logger_File - user clicked on review button
+2023-03-11 15:51:26,403 [main] INFO logger_File - user wrote a review
+2023-03-11 15:51:26,558 [main] INFO logger_File - user cliked add review button
+2023-03-11 15:53:19,104 [main] INFO logger_File - User is on retail website
+2023-03-11 15:53:19,359 [main] INFO logger_File - user clicked sign in
+2023-03-11 15:53:19,837 [main] INFO logger_File - user entered email and password
+2023-03-11 15:53:19,979 [main] INFO logger_File - user clicked on login button
+2023-03-11 15:53:20,220 [main] INFO logger_File - user logged into account
+2023-03-11 15:53:20,544 [main] INFO logger_File - user clicked on order section
+2023-03-11 15:53:20,654 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 15:53:20,828 [main] INFO logger_File - user clicked on review button
+2023-03-11 15:53:21,300 [main] INFO logger_File - user wrote a review
+2023-03-11 15:53:21,435 [main] INFO logger_File - user cliked add review button
+2023-03-11 15:57:03,513 [main] INFO logger_File - User is on retail website
+2023-03-11 15:57:03,735 [main] INFO logger_File - user clicked sign in
+2023-03-11 15:57:04,200 [main] INFO logger_File - user entered email and password
+2023-03-11 15:57:04,352 [main] INFO logger_File - user clicked on login button
+2023-03-11 15:57:04,646 [main] INFO logger_File - user logged into account
+2023-03-11 15:57:04,960 [main] INFO logger_File - user clicked on order section
+2023-03-11 15:57:05,020 [main] INFO logger_File - user clicked on first order in list
+2023-03-11 15:57:05,199 [main] INFO logger_File - user clicked on review button
+2023-03-11 15:57:05,649 [main] INFO logger_File - user wrote a review
+2023-03-11 15:57:05,786 [main] INFO logger_File - user cliked add review button
+2023-03-11 15:57:06,466 [main] INFO logger_File - a review message is displayed

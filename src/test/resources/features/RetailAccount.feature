@@ -5,24 +5,23 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'zad123@gmail.com' and password 'Zad@1237514'
+    And User enter email 'zad123@gmail.com' and password 'Zad@1237515'
     And User click on login button
     Then User should be logged in into Account
     And User click on Account option
 
   @test-01
   Scenario: Verify User can update Profile Information
-    When User click on Account option
-    And User update Name 'Zara' and Phone '5516761058'
+    And User update Name 'Hasti' and Phone '5516791058'
     And User click on Update button
-    Then user profile information should be updated 'Personal Information Updated Successfully'
+    Then user profile information should be updated
 
   @test-02
   Scenario: Verify User can Update password
     When User click on Account option
     And User enter below information
       | perviousPassword | newPassword | confirmPassword |
-      | Zad@1237513      | Zad@1237514 | Zad@1237514     |
+      | Zad@1237513      | Zad@1237515 | Zad@1237515     |
     And User click on Change Password button
     Then a messgae should be displayed 'Password Updated Successfully'
 

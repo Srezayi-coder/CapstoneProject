@@ -20,6 +20,7 @@ public class BaseSetup {
 	private final ReadYamlFiles environmentVariables;
 	public static Logger logger;
 	
+	
 	public BaseSetup() {
 		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
 		String log4JPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
@@ -38,6 +39,7 @@ public class BaseSetup {
 	public WebDriver getDriver() {
 		return webDriver;
 	}
+	
 	
 	public void setupBrowser() {
 		HashMap uiProperties = environmentVariables.getYamlProperty("ui");

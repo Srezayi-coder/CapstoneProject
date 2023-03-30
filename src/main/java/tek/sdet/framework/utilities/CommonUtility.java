@@ -82,6 +82,16 @@ public class CommonUtility extends BaseSetup{
 	
 	}
 	
+	public void clearTextUsingJSExecutor(WebElement element) {
+		element.clear();
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		js.executeScript("arguments[0].value=''", element);
+	}
+	
+	public void clearText(WebElement element) {
+		element.clear();
+	}
+	
 	public void clearTextUsingSendKeys(WebElement toClear) {
 		toClear.sendKeys(Keys.CONTROL + "a");
 		toClear.sendKeys(Keys.DELETE);
@@ -198,6 +208,8 @@ public class CommonUtility extends BaseSetup{
 		JavascriptExecutor js = ((JavascriptExecutor) getDriver());
 		js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
 	}
+	
+	
 	
 
 }

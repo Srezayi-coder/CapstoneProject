@@ -25,17 +25,22 @@ public class RetailAccountSteps extends CommonUtility{
 		sendText(factory.accountPage().AccountName, nameValue);
 		clearTextUsingSendKeys(factory.accountPage().PhoneNumber);
 		sendText(factory.accountPage().PhoneNumber, phoneValue);
-		logger.info("user updated name and phone");
+		logger.info("updating Name and Phone Number");
 	}
 	
 	@And("User click on Update button")
 	public void userClickOnUpdateButton() {
 		click(factory.accountPage().updateButton);
-		logger.info("user clicked on update button");
+		logger.info("Click on update button");
 	}
-	@Then("user profile information should be updated {string}")
-	public void userProfileInformationShouldBeUpdated(String message) {
-		String msg = getAttribute(factory.accountPage().updatedSuccessfully, message);
+	@Then("user profile information should be updated")
+	public void userProfileInformationShouldBeUpdated() {
+		waitTillPresence(factory.accountPage().updatedSuccessfully);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().updatedSuccessfully));
+		
+		String actualMessage = factory.accountPage().updatedSuccessfully.getText();
+		String ExpectedMessage = "Personal information updated successfully";
+		Assert.assertEquals(ExpectedMessage, actualMessage);
 		logger.info("user profile information should be updated");
 	}
 	
@@ -54,9 +59,13 @@ public class RetailAccountSteps extends CommonUtility{
 		logger.info("user click on change password button");
 	}
 	@Then("a messgae should be displayed {string}")
-	public void aMessageShouldBeDisplayed(String value) {
-		String text = getAttribute(factory.accountPage().PasswordMessage, value);
-		logger.info("message displayed");
+	public void aMessageShouldBeDisplayed(String expectedMessage) {
+		waitTillPresence(factory.accountPage().PasswordMessage);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().PasswordMessage));
+		String actualMessage = factory.accountPage().PasswordMessage.getText();
+		expectedMessage = "Password information updated successfully";
+		Assert.assertEquals(expectedMessage, actualMessage);
+		logger.info("Password message displayed");
 		
 	}
 	
